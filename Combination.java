@@ -1,7 +1,5 @@
 package recurrence;
 
-import org.apache.commons.math3.util.MathUtils;
-
 /*
  *  recurrence formula; recursion formula : 漸化式
  * 
